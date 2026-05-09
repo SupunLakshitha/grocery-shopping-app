@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722089893510",
+    "project_id": "grocery-dula",
+    "storage_bucket": "grocery-dula.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722089893510:android:ca7f17baca05275e91bb07",
+        "android_client_info": {
+          "package_name": "com.example.grocery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3zUn2zebZFiDG7VKCoK43YtOCo1VXAdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
