@@ -1,2 +1,34 @@
-# grocery-shopping-app
-Android grocery shopping app built using Java and Firebase. Features user authentication, product categories, shopping cart, order management, real-time database integration, Cloudinary image hosting, and modern Material Design UI.
+# Grocery Shopping Android App
+
+# Overview
+This is an Android Grocery Shopping Application developed using Java and Firebase.
+
+The app allows users to:
+- Register and login
+- Browse grocery categories
+- Add products to cart
+- Place orders
+- View order details
+- Upload and display product images
+
+# Technologies Used
+- Java
+- Android Studio
+- Firebase Authentication
+- Firebase Realtime Database
+- Firebase Firestore
+- Firebase Storage
+- Cloudinary
+- Glide
+- Material Design
+
+# Features
+- User Authentication
+- Product Management
+- Shopping Cart
+- Order Placement
+- Real-time Database Sync
+- Responsive UI
+
+## Author
+Supun Lakshitha
